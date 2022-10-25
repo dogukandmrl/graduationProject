@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035387825210",
+    "project_id": "workshopapp-1ae19",
+    "storage_bucket": "workshopapp-1ae19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035387825210:android:e203ddc59f187363849903",
+        "android_client_info": {
+          "package_name": "com.dogukandemirel.workshopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035387825210-4g7e3m4ncfj1oefveulctuvshobrqg60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDnkojieJRlGKxCrYd2i7p6cesUBiHT_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035387825210-4g7e3m4ncfj1oefveulctuvshobrqg60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
